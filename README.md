@@ -15,3 +15,5 @@ node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="3
 # Видаляємо контакт
 
 node index.js --action="remove" --id=3
+
+https://monosnap.com/list/62924bbc8a2e60684b16f920 <===== screenshots
